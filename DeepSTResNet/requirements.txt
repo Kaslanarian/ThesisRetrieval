@@ -1,0 +1,7 @@
+numpy
+pandas
+h5py
+sklearn
+torch
+matplotlib # optional
+seaborn # optional
